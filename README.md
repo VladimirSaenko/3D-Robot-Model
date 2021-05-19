@@ -1,5 +1,8 @@
 # 3D-Robot-Model
- 3D модель робота с анимациями
+
+3D модель робота с анимациями
+ 
+![img-portfolio](https://user-images.githubusercontent.com/56477695/118872179-f2cb3e80-b8f0-11eb-8cf2-b80346162e39.jpg) 
 
 Анимации:
 
