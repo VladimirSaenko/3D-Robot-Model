@@ -1,5 +1,5 @@
 
-"use string"
+"use strict";
 
 const modelViewer = document.getElementById('model');
 const animBtn = document.querySelectorAll('.btn-container button');
@@ -10,6 +10,8 @@ animBtn.forEach(btns => {
     }
 })
 
+// внизу два способа
+
 // hidenBtn.onclick = () => {
 //     document.querySelector('.btn-container').classList.toggle('hide');
 //     if(hidenBtn.innerHTML == 'Hide') {
@@ -19,8 +21,6 @@ animBtn.forEach(btns => {
 //         hidenBtn.innerHTML = 'Hide';
 //     }
 // }
-
-// внизу два способа
 
 // function Anim(e) {
 //     modelViewer.animationName = e.innerHTML;
