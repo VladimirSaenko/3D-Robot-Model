@@ -28,7 +28,7 @@
 
 ### 11.Punch-удар
 
-### 12 и 13. Sitting,Standing-...no comments
+### 12 и 13. Sitting, Standing- no comments... 
 
 ### 14.ThumbsUp-лайк
 
