@@ -32,10 +32,10 @@
 
 ### 14.ThumbsUp-лайк
 
-### Portfolio-3 {
+## Portfolio-3 {
 
-#### https://vladimirsaenko.github.io/Portfolio-3/sites/site-9/3D-Robot-Model/index.html
+### https://vladimirsaenko.github.io/Portfolio-3/sites/site-9/3D-Robot-Model/index.html
 
 ### }
 
-#### P.S В мобильной версии лишь часть всех анимаций
+### P.S В мобильной версии лишь часть всех анимаций
