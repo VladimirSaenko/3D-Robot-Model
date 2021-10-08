@@ -32,7 +32,7 @@
 
 ### 14.ThumbsUp-лайк
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-9/3D-Robot-Model/index.html
 
