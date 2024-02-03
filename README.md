@@ -1,32 +1,30 @@
 # 3D-Robot-Model
-
-## 3D модель робота с анимациями
  
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/118872179-f2cb3e80-b8f0-11eb-8cf2-b80346162e39.jpg) 
 
-## Анимации:
+## Animations:
 
-### 1. Idle-спокойствие
+### 1. Idle
 
-### 2. Dance-танец
+### 2. Dance
 
-### 3. Running-бег
+### 3. Running
 
-### 4. Death-смерть
+### 4. Death
 
-### 5. Walking-бег
+### 5. Walking
 
-### 6. Wave-приветстиве
+### 6. Wave
 
-### 7. No-нет
+### 7. No
 
-### 8. Yes-да
+### 8. Yes
 
-### 9. Jump-прижок
+### 9. Jump
 
-### 10. Punch-удар 
+### 10. Punch
 
-### 11. ThumbsUp-лайк
+### 11. ThumbsUp
 
 ## Portfolio {
 
