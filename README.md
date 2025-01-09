@@ -10,7 +10,7 @@
 
 ### 3. Running
 
-### 4. Death
+### 4. Falling
 
 ### 5. Walking
 
