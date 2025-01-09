@@ -10,21 +10,21 @@
 
 ### 3. Running
 
-### 4. Falling
+<!-- ### 4. Falling -->
 
-### 5. Walking
+### 4. Walking
 
-### 6. Wave
+### 5. Wave
 
-### 7. No
+### 6. No
 
-### 8. Yes
+### 7. Yes
 
-### 9. Jump
+### 8. Jump
 
-### 10. Punch
+### 9. Punch
 
-### 11. ThumbsUp
+### 10. ThumbsUp
 
 ## Portfolio {
 
